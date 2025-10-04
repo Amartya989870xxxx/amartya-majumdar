@@ -47,7 +47,7 @@ html{
         justify-content : space-evenly
      }
      nav ul li a::after {
-        content: ''; /*Have to research */
+        content: ''; 
         position: absolute;
         width: 0;
         height: 2px;
@@ -94,18 +94,18 @@ html{
     font-family: monospace; 
     border-right: 3px solid;
     width: 100%; 
-    white-space: nowrap; /* Have to Research on this */
+    white-space: nowrap; 
     overflow: hidden;
     display: inline-block;
     animation: typing 2s steps(15), cursor .6s step-end infinite alternate;
   }
-  /* cursor blinking */
+ 
   @keyframes cursor {
     50% {
       border-color: transparent;
     }
   }
-  /* typing effect */
+
   @keyframes typing {
     from { 
       width: 0ch;
