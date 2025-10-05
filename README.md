@@ -3,8 +3,6 @@
 A minimalistic and modern **personal portfolio website** built using **HTML5** and **CSS3**, showcasing my profile, skills, projects, and contact details.  
 The design focuses on simplicity, smooth animations, and responsiveness across all devices.
 
----
-
 ## ✨ Features
 
 - Responsive layout using **Flexbox** and **CSS Grid**  
@@ -15,25 +13,11 @@ The design focuses on simplicity, smooth animations, and responsiveness across a
 - Contact form with social media links  
 - Dark + Neon theme for a techy, modern feel  
 
----
-
 ## 🧩 Tech Stack
 
 - **HTML5** — Semantic structure  
 - **CSS3** — Styling, animations, responsiveness  
 - **Media Queries** — Mobile and tablet friendly  
-
----
-
-## 📁 Project Structure
-
-portfolio/
-│
-├── index.html # Main HTML file
-├── style.css # Main CSS file
-├── assets/ # Images, icons, resume
-└── README.md # Project documentation
-
 
 
 Feel free to connect with me :)
