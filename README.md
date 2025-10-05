@@ -11,7 +11,7 @@ The design focuses on simplicity, smooth animations, and responsiveness across a
 - Project showcase with GitHub and live links  
 - Skill progress bars with percentage indicators  
 - Contact form with social media links  
-- Dark + Neon theme for a techy, modern feel  
+- White theme for a minimilistic, modern feel  
 
 ## 🧩 Tech Stack
 
