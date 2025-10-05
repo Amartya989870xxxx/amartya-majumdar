@@ -6,7 +6,7 @@ The design focuses on simplicity, smooth animations, and responsiveness across a
 ## ✨ Features
 
 - Responsive layout using **Flexbox** and **CSS Grid**  
-- Smooth **CSS animations** and **transitions**  
+- Smooth **CSS animations**
 - Typewriter introduction effect  
 - Project showcase with GitHub and live links  
 - Skill progress bars with percentage indicators  
